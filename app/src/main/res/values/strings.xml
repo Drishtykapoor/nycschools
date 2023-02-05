@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">20230130DrishtyKapoorNYCSchools</string>
-    <string name="school_names">School Names</string>
-    <string name="sort">Sort</string>
-    <string name="ascending">A-Z</string>
-    <string name="descending">Z-A</string>
-    <string name="total_students">Total Students</string>
-    <string name="zip_code">Zipcode</string>
-</resources>
